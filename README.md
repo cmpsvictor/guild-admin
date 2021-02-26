@@ -1,5 +1,6 @@
-# Crewmate
-Simple Discord bot for managing Among Us sessions
+# guild-admin
+
+General-use discordpy bot for managing guilds, able to be used as a template.
 
 ## Dependencies
 As a python discord bot, `discord.py` is required. To install, use the shell to run:
